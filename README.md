@@ -1,6 +1,6 @@
 # Twitter Clone
 
-A responsive Twitter clone UI built with React and Tailwind CSS.  
+A responsive Twitter clone UI built with Tailwind CSS.  
 This project replicates the modern Twitter (X) interface with a clean and responsive design.
 
 ## 🚀 Features
@@ -14,22 +14,18 @@ This project replicates the modern Twitter (X) interface with a clean and respon
 - Built with reusable components
 
 ## 🛠️ Tech Stack
-
-- React
 - Tailwind CSS
-- JavaScript
-- Vite
 
 ## 📂 Project Structure
 
 ```bash
 twitter-clone/
 │── public/
-│── src/
-│   │── components/
-│   │── assets/
-│   │── App.jsx
-│   │── main.jsx
+│── css/
+│   │── input.css
+│   │── output.css
+│── index.html
+│── package-lock.json
 │── package.json
 │── README.md
 ```
@@ -66,12 +62,9 @@ Twitter Clone UI inspired by the modern Twitter (X) interface.
 
 ## 🎯 Purpose
 
-This project was built for practice and learning modern frontend development using React and Tailwind CSS.
+This project was built for practice and learning modern frontend development using Tailwind CSS.
 
 ## 📌 Author
 
 Mohd Arbaz Bes
 
-## 📄 License
-
-This project is open source and available under the MIT License.
